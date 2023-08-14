@@ -1,0 +1,158 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+.conteudo{
+    width: 100%;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.conteudo-principal{
+    min-height: 80vh;
+    padding: 50px 160px;
+}
+
+.conteudo-principal-receita{
+    min-height: 80vh;
+    padding: 0px 160px 50px 160px;
+}
+
+.conteudo-principal-receitas{
+    padding: 0;
+    margin: 0;
+}
+
+.img-receita{
+    margin-left: 11px;
+}
+
+.modopreparo-text{
+    margin-top: 20px;
+    text-align: justify;
+}
+
+.modo-preparo{
+    margin-top: 30px;
+    margin-left: 0;
+}
+
+.conteudo-ingredientes{
+    margin-top: 40px;
+    margin-bottom: 0;
+}
+
+.row>*{
+    padding: 0;
+    margin: 0;
+}
+
+.conteudo-principal-receitas-text{
+    margin-left: 20px;
+}
+
+ul{
+    padding: 0 !important;
+    margin-bottom: 25px;
+}
+
+.lista-ingredientes{
+    padding-left: 17px !important;
+}
+
+h1{
+    color:#AC101B !important;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
+h2{
+    font-size: 28px;
+    font-weight: bold;
+}
+
+h3{
+    font-size: 26px;
+    font-weight: bold;
+    color:#AC101B;
+}
+
+p{
+    font-size: 22px;
+}
+
+.botao{
+    display: flex;
+    justify-content: end;
+}
+
+.botao-fav{
+    align-items: center;
+}
+
+.btn{
+    background-color: #AC101B;
+    padding: 5px 25px; 
+    color: beige;
+}
+.btn:hover{
+    background-color: #7e0e15;
+    color: beige;
+}
+
+.botoes{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: 0px;
+}
+
+.loading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 14px;
+    color:#AC101B !important;
+}
+
+.preparo{
+    display: flex;
+    justify-content: start;
+}
+
+.rendimento{
+    display: flex;
+    justify-content: end;
+}
+
+.conteudo-principal-receita-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.link-receitafav{
+    margin-right: 20px;
+    text-decoration: none;
+    color:#AC101B;
+}
+
+.link-receitafav:hover{
+    color: #7e0e15;
+}
+
+.botoes-adicionar-receitas{
+    margin-left: 1px;
+    margin-top: 40px;
+}
+
+.lista-ingre{
+    margin-left: 20px;
+}
+
+.margin{
+    margin-top: 15px;
+}
